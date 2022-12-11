@@ -6,3 +6,5 @@
 ENG - just ensure frostyhud and put script in your resource folder . If you want help just create ticket on discord enjoy ! :)
 
 https://discord.gg/xXRdzN29
+
+NEEDED : ESX Status
